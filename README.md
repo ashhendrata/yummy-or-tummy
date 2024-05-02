@@ -101,6 +101,7 @@ Challenges faced: starting was the hardest! And learning how to use the back cam
 What's next: Detecting text in the photos taken
 
 Update: has not been incorporated with camera BUT i implemented the text reading feature tested with images
+i am so sorry its all over the place and the features are not linked but hopefully you get an idea! life has been lifeing so its been hard to make progress
 
 
 
